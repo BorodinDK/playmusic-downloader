@@ -1,0 +1,14 @@
+{
+  "name": "playmusic-downloader",
+  "version": "0.1.0",
+  "description": "Download music from google play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Borodin <BorodinDK@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "playmusic": "^2.1.0",
+  }
+}
