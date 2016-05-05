@@ -9,6 +9,6 @@
   "author": "Denis Borodin <BorodinDK@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "playmusic": "^2.1.0",
+    "playmusic": "^2.1.0"
   }
 }
